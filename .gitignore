@@ -1,2 +1,6 @@
+# Ignore Pycharm directory
 .idea/
+# Ignore folder shortcuts
+ESA-AO
+# Ignore original notebook files
 *.ipynb
